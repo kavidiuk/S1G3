@@ -1,0 +1,31 @@
+.centro{
+    text-align: center;
+}
+header div img {
+    height: 100%;
+}
+header p {
+    background-color: rgb(228, 182, 142);
+    padding: 1%;
+    
+}
+main div img {
+    border-radius: 15px;
+}
+main h3 {
+    color: gray;
+}
+main div .prova{
+    text-transform: uppercase;
+    color: red;
+    text-align: left;
+    
+}
+main div h4{
+    margin-top: -1.5%;
+    text-align: left;
+    
+}
+.prova{
+    margin-left: 275px;
+}
